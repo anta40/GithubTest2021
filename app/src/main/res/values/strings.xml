@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubTest2021</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_users_list_is_empty">Empty!</string>
+    <string name="msg_fetch_users_list_has_error">Has Error!</string>
+
+</resources>
